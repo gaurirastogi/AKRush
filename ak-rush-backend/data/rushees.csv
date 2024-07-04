@@ -1,0 +1,9 @@
+id,name,major,photo,comments
+1,Alex Johnson,Computer Science,_Male.jpg,"{""pros"": ""Such a smart guy!ssdfsd sdfsdfsdds"", ""cons"": ""sdfsdfssdfdssdfsd"", ""vouches"": ""Great team player"", ""anti-vouches"": ""None""}"
+2,Jordan Lee,Business Administration,_Female.jpg,"{""pros"": ""Excellent strategist"", ""cons"": ""Can be too direct"", ""vouches"": ""Would work with Jordan again anytime"", ""anti-vouches"": ""None""}"
+3,Emily Chen,Electrical Engineering,_Female.jpg,"{""pros"": ""Strong problem solver"", ""cons"": ""Tends to overthink sometimes"", ""vouches"": ""Very reliable"", ""anti-vouches"": ""None""}"
+4,Michael Smith,Psychology,_Male.jpg,"{""pros"": ""Empathetic listener"", ""cons"": ""Can be indecisive"", ""vouches"": ""Great communication skills"", ""anti-vouches"": ""None""}"
+5,Emma Davis,English Literature,_Female.jpg,"{""pros"": ""Creative thinker"", ""cons"": ""Struggles with time management"", ""vouches"": ""Passionate about literature"", ""anti-vouches"": ""None""}"
+6,William Brown,History,_Male.jpg,"{""pros"": ""Excellent researcher"", ""cons"": ""Tends to procrastinate"", ""vouches"": ""Deep knowledge of historical events"", ""anti-vouches"": ""None""}"
+7,Sophia Martinez,Chemistry,_Female.jpg,"{""pros"": ""Highly organized"", ""cons"": ""Can be overly critical"", ""vouches"": ""Dedicated to scientific research"", ""anti-vouches"": ""None""}"
+8,Daniel Taylor,Economics,_Male.jpg,"{""pros"": ""Strong analytical skills"", ""cons"": ""Needs to work on public speaking"", ""vouches"": ""Great at data analysis"", ""anti-vouches"": ""None""}"
